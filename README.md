@@ -18,7 +18,8 @@ Ambari provides an intuitive, easy-to-use Hadoop management web UI. It enables S
 Ambari is accessible through this address: http://hadoop-m:8080
 
 
-> Yarn Ressource Manager
+> Yarn Ressource Manager  
+
 Ressource manager provide a web user interface to monitor hadoop job:
 - progress of the job
 - ressources used by the job
