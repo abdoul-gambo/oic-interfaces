@@ -43,9 +43,9 @@ Spark History Server is accessible through this address http://hadoop-m:18080
 > Jupyter  
 
 The Jupyter Notebook App allows editing and running notebook documents via a web browser. Our setup provides:
-- Python 2.7 interface (inclusding Anaconda Analytics packages)
-- Python 3
-- Pyspark
+- Python 2.7 interface (including Anaconda Analytics packages)
+- Python 3 interface (standard libraries)
+- Pyspark kernel to run spark job
 - Terminal (shell console)
 
 Jupyter is accessible through this address https://hadoop-w-3:9083
