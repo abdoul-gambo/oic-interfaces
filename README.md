@@ -17,6 +17,7 @@ Ambari provides an intuitive, easy-to-use Hadoop management web UI. It enables S
 
 Ambari is accessible through this address: http://hadoop-m:8080
 
+![Data Pipelines](https://github.com/agambov/oic-data-model/blob/master/img/data_model.png)
 
 > Yarn Ressource Manager  
 
@@ -28,6 +29,7 @@ Ressource manager provide a web user interface to monitor hadoop job:
 
 Ressource Manager UI is accessible through this address: http://hadoop-w-0:8088
 
+![Data Pipelines](https://github.com/agambov/oic-data-model/blob/master/img/data_model.png)
 
 > Spark History Server  
 
@@ -39,6 +41,7 @@ Spark History Server provide a way to monitor Spark application. it displays use
 
 Spark History Server is accessible through this address http://hadoop-m:18080
 
+![Data Pipelines](https://github.com/agambov/oic-data-model/blob/master/img/data_model.png)
 
 > Jupyter  
 
@@ -50,6 +53,7 @@ The Jupyter Notebook App allows editing and running notebook documents via a web
 
 Jupyter is accessible through this address https://hadoop-w-3:9083
 
+![Data Pipelines](https://github.com/agambov/oic-data-model/blob/master/img/data_model.png)
 
 > HUE  
 
@@ -57,7 +61,6 @@ Hue is a Web interface for analyzing data with Hadoop. Hue is a suite of applica
 - SQL editors for Apache Hive
 - Scheduling of jobs and workflows through an Apache Oozie Editor and Dashboard
 
-
 HUE is accessible through this address: http://hadoop-w-3:8000
 
-
+![Data Pipelines](https://github.com/agambov/oic-data-model/blob/master/img/data_model.png)
