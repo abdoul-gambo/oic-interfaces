@@ -57,7 +57,7 @@ Hue is a Web interface for analyzing data with Hadoop. Hue is a suite of applica
 - SQL editors for Apache Hive
 - Scheduling of jobs and workflows through an Apache Oozie Editor and Dashboard
 
-
+o
 http://hadoop-w-38000
 
 
