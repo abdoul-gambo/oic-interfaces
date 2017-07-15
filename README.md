@@ -1,6 +1,6 @@
 ### Interfaces
 
-This post describe oic-project 
+This post describes the different user interfaces of the environment
 - Ambari server
 - Yarn Ressource Manager
 - Spark History Server
