@@ -29,7 +29,7 @@ Ressource manager provide a web user interface to monitor hadoop job:
 
 Ressource Manager UI is accessible through this address: http://hadoop-w-0:8088
 
-![Data Pipelines](https://github.com/agambov/oic-interfaces/blob/master/img/yarn.png)
+![Data Pipelines](https://github.com/agambov/oic-interfaces/blob/master/img/yarn2.png)
 
 > Spark History Server  
 
