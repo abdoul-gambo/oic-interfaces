@@ -8,7 +8,8 @@ This post describe oic-project
 - HUE
 
 
-> Ambari server  
+> Ambari server
+
 Ambari provides an intuitive, easy-to-use Hadoop management web UI. It enables System Administrators to:
 - Provision a Hadoop Cluster
 - Central management for starting, stopping, and reconfiguring Hadoop services across the entire cluster
