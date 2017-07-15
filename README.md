@@ -15,7 +15,7 @@ Ambari provides an intuitive, easy-to-use Hadoop management web UI. It enables S
 - Central management for starting, stopping, and reconfiguring Hadoop services across the entire cluster
 - Monitor a Hadoop Cluster
 
-Web IU: http://hadoop-m:8080
+Ambari is accessible through this address: http://hadoop-m:8080
 
 
 > Ressource Manager
