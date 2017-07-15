@@ -17,7 +17,7 @@ Ambari provides an intuitive, easy-to-use Hadoop management web UI. It enables S
 
 Ambari is accessible through this address: http://hadoop-m:8080
 
-![Data Pipelines](https://github.com/agambov/oic-interfaces/blob/master/img/data_model.png)
+![Data Pipelines](https://github.com/agambov/oic-interfaces/blob/master/img/ambari.png)
 
 > Yarn Ressource Manager  
 
@@ -29,7 +29,7 @@ Ressource manager provide a web user interface to monitor hadoop job:
 
 Ressource Manager UI is accessible through this address: http://hadoop-w-0:8088
 
-![Data Pipelines](https://github.com/agambov/oic-interfaces/blob/master/img/ambari.png)
+![Data Pipelines](https://github.com/agambov/oic-interfaces/blob/master/img/yarn.png)
 
 > Spark History Server  
 
