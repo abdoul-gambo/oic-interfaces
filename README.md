@@ -9,6 +9,10 @@ This post describes the cluster configuration and user interfaces of the environ
 - HUE
 
 
+> Cluster model
+
+![MetaStore remote database](https://github.com/agambov/oic-interfaces/blob/master/img/archi.png)
+
 > Configuration
 - 4 VMs (3 VM for Hadoop Cluster and 1 VM for data backup and micro services)
 - OS: CentOS 7
@@ -16,10 +20,6 @@ This post describes the cluster configuration and user interfaces of the environ
 - CPU: 4
 - Boot disk: 50Go
 - Attached disk: 200G
-
-> Cluster model
-
-![MetaStore remote database](https://github.com/agambov/oic-interfaces/blob/master/img/archi.png)
 
 
 > Ambari server
