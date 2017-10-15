@@ -1,11 +1,25 @@
 ### Interfaces
 
-This post describes the different user interfaces of the environment
+This post describes the cluster configuration and user interfaces of the environment accessibility
+- configuration
 - Ambari server
 - Yarn Ressource Manager
 - Spark History Server
 - Jupyter
 - HUE
+
+
+> Configuration
+- 4 VMs (3 VM for Hadoop Cluster and 1 VM for data backup and micro services)
+- OS: CentOS 7
+- RAM: 15 Go
+- CPU: 4
+- Boot disk: 50Go
+- Attached disk: 200G
+
+> Cluster model
+
+![MetaStore remote database](https://github.com/agambov/oic-interfaces/blob/master/img/archi.png)
 
 
 > Ambari server
